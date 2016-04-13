@@ -15,7 +15,7 @@ The stream of the app is as follow:
 5. Call summarize method of [Intellexer API](www.intellexer.com) with article's text  
 6. Call sentiment analyis of [Intellexer API](www.intellexer.com) with article's text  
 7. Display the summary on a new screen  
-8. Display sentiment analaysis with [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) library  
+8. Display sentiment analysis with [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) library  
 
 ##Improvements
 * improve stability by checking the network connectivity (as of today the app might crash if the phone can't connect to network)
