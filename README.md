@@ -1,5 +1,5 @@
 ##Description
-Android app for sentiment analysis and summary of POLITICO's congress articles.
+Android app for sentiment analysis and summary of POLITICO's congress articles for the Super-Busy.
 
 
 ##How it works
